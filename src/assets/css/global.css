@@ -1,0 +1,44 @@
+.App{
+  text-align: center;
+}
+.icons {
+    margin: 0 400px 0 400px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .nav-link {
+    color: grey !important;
+    font-size: 20px;
+  }
+  
+  .selected-link {
+    color: white !important;
+  }
+
+  .icons {
+    margin: 0 400px 0 400px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+ .colorLogo{
+  color:red !important
+ }
+ .inspection-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+ }
+.backTo{
+  color:green
+}
+.title-insp{
+  color: #25C7B6!important;
+  font-size: 30px;
+  text-align: center;
+  padding: 2rem;
+}
+.btn{
+  background-color:#25C7B6 !important
+}
